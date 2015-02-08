@@ -90,6 +90,13 @@
             this.label3.TabIndex = 4;
             this.label3.Text = "惡搞!!!";
             // 
+            // label4
+            // 
+            this.label4.Location = new System.Drawing.Point(450, 241);
+            this.label4.Name = "label4";
+            this.label4.Size = new System.Drawing.Size(100, 23);
+            this.label4.TabIndex = 0;
+            // 
             // checkBox1
             // 
             this.checkBox1.AutoSize = true;
