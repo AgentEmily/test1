@@ -21,5 +21,10 @@ namespace WindowsFormsApplication1
         {
             MessageBox.Show("my first git");
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("show show show");
+        }
     }
 }
